@@ -6,3 +6,17 @@ The proposed Bookstore Inventory Management System is an Online Book Shop which 
 
 ER MODEL DIAGRAM
 ![ERD](https://user-images.githubusercontent.com/114179722/204937868-5f8a2719-2c00-4d85-8cb7-032b2741d945.jpeg)
+
+THE DATABASE CONTAINS THE FOLLOWING SQL OPERATIONS :
+1. DDL statements for creation of the database
+2. SQL views
+3. Table level check constraints
+4. Computed Columns based on UDF
+5. Non clustered Indexes
+6. Stored Procedures
+7. User Defined functions
+8. DML Triggers for Insert and Delete along with rollback
+9. Column Data Encryption
+10. Visualization
+
+
