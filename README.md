@@ -17,6 +17,9 @@ THE DATABASE CONTAINS THE FOLLOWING SQL OPERATIONS :
 7. User Defined functions
 8. DML Triggers for Insert and Delete along with rollback
 9. Column Data Encryption
-10. Visualization
+10. Visualization (example mentioned)
 
 
+
+
+<img width="621" alt="Business by Country_Axis Bookstore" src="https://user-images.githubusercontent.com/114179722/204938685-89ae49e7-41e6-492e-a0e1-3096b7cc7260.png">
